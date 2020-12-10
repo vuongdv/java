@@ -18,7 +18,4 @@ public class Dog {
 	public void printAction() {
 		System.out.println("go go");
 	}
-	public void printAge() {
-		System.out.println("18");
-	}
 }
