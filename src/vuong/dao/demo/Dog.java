@@ -15,4 +15,7 @@ public class Dog {
 	public void setAge(int age) {
 		this.age = age;
 	}
+	public void printAction() {
+		System.out.println("go go");
+	}
 }
